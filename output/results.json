@@ -1,0 +1,1080 @@
+[
+  {
+    "id": "686e99c395fa566fdc2e48ea",
+    "data_hora": "09/07/2025 13:33:07",
+    "horario_rodada": "13:33",
+    "vencedor": "banker",
+    "valor": 7
+  },
+  {
+    "id": "0197f007-e75f-7582-82c8-23faa45a0e71",
+    "data_hora": "09/07/2025 13:32:19",
+    "horario_rodada": "13:32",
+    "vencedor": "banker",
+    "valor": 10
+  },
+  {
+    "id": "0197f007-397e-75b1-93ce-9f3fb248f610",
+    "data_hora": "09/07/2025 13:31:34",
+    "horario_rodada": "13:31",
+    "vencedor": "player",
+    "valor": 10
+  },
+  {
+    "id": "0197f006-955f-771d-802e-ae6248317c5a",
+    "data_hora": "09/07/2025 13:30:52",
+    "horario_rodada": "13:30",
+    "vencedor": "banker",
+    "valor": 7
+  },
+  {
+    "id": "0197f005-d23b-738c-8a37-2008492abedf",
+    "data_hora": "09/07/2025 13:30:02",
+    "horario_rodada": "13:30",
+    "vencedor": "player",
+    "valor": 8
+  },
+  {
+    "id": "0197f005-1d39-712f-8a9c-3ada5fdf5889",
+    "data_hora": "09/07/2025 13:29:16",
+    "horario_rodada": "13:29",
+    "vencedor": "player",
+    "valor": 9
+  },
+  {
+    "id": "0197f004-5beb-77e9-b677-457bb0526487",
+    "data_hora": "09/07/2025 13:28:26",
+    "horario_rodada": "13:28",
+    "vencedor": "banker",
+    "valor": 11
+  },
+  {
+    "id": "0197f003-a5e3-70e9-b692-27c451e451a6",
+    "data_hora": "09/07/2025 13:27:40",
+    "horario_rodada": "13:27",
+    "vencedor": "player",
+    "valor": 7
+  },
+  {
+    "id": "0197f002-fc55-73d2-a96e-4909316b6ee4",
+    "data_hora": "09/07/2025 13:26:56",
+    "horario_rodada": "13:26",
+    "vencedor": "player",
+    "valor": 10
+  },
+  {
+    "id": "0197f002-55d6-72bc-af72-7df4d12e6c16",
+    "data_hora": "09/07/2025 13:26:14",
+    "horario_rodada": "13:26",
+    "vencedor": "banker",
+    "valor": 8
+  },
+  {
+    "id": "0197f001-af94-768c-aada-b130801f55ac",
+    "data_hora": "09/07/2025 13:25:31",
+    "horario_rodada": "13:25",
+    "vencedor": "banker",
+    "valor": 12
+  },
+  {
+    "id": "0197f000-edbe-73a1-910b-978835945eee",
+    "data_hora": "09/07/2025 13:24:41",
+    "horario_rodada": "13:24",
+    "vencedor": "player",
+    "valor": 10
+  },
+  {
+    "id": "0197f000-3677-7459-af56-16035af49509",
+    "data_hora": "09/07/2025 13:23:54",
+    "horario_rodada": "13:23",
+    "vencedor": "player",
+    "valor": 7
+  },
+  {
+    "id": "0197efff-a607-74bf-b43b-e90fe57fbc44",
+    "data_hora": "09/07/2025 13:23:18",
+    "horario_rodada": "13:23",
+    "vencedor": "banker",
+    "valor": 9
+  },
+  {
+    "id": "0197efff-1f6e-73c3-88b0-da75e97337cd",
+    "data_hora": "09/07/2025 13:22:43",
+    "horario_rodada": "13:22",
+    "vencedor": "banker",
+    "valor": 8
+  },
+  {
+    "id": "0197effe-948d-753e-a0e8-47dfe9d31fec",
+    "data_hora": "09/07/2025 13:22:08",
+    "horario_rodada": "13:22",
+    "vencedor": "tie",
+    "valor": 4
+  },
+  {
+    "id": "0197effe-060a-7491-b764-b4efcc0f7194",
+    "data_hora": "09/07/2025 13:21:31",
+    "horario_rodada": "13:21",
+    "vencedor": "player",
+    "valor": 10
+  },
+  {
+    "id": "0197effd-8138-703b-8cf8-c17fe6b3cccd",
+    "data_hora": "09/07/2025 13:20:57",
+    "horario_rodada": "13:20",
+    "vencedor": "banker",
+    "valor": 10
+  },
+  {
+    "id": "0197effc-f256-777c-8b92-55bd01d60e32",
+    "data_hora": "09/07/2025 13:20:20",
+    "horario_rodada": "13:20",
+    "vencedor": "player",
+    "valor": 10
+  },
+  {
+    "id": "0197effc-6be2-73fe-8db9-3c7fd38e8aae",
+    "data_hora": "09/07/2025 13:19:46",
+    "horario_rodada": "13:19",
+    "vencedor": "banker",
+    "valor": 10
+  },
+  {
+    "id": "0197effb-dc46-7095-9dbc-7f142cd3b255",
+    "data_hora": "09/07/2025 13:19:09",
+    "horario_rodada": "13:19",
+    "vencedor": "banker",
+    "valor": 5
+  },
+  {
+    "id": "0197effb-5230-74ff-af6f-a31b85b00782",
+    "data_hora": "09/07/2025 13:18:34",
+    "horario_rodada": "13:18",
+    "vencedor": "banker",
+    "valor": 10
+  },
+  {
+    "id": "0197effa-c277-70be-993f-058464d3c7a8",
+    "data_hora": "09/07/2025 13:17:57",
+    "horario_rodada": "13:17",
+    "vencedor": "banker",
+    "valor": 8
+  },
+  {
+    "id": "0197effa-3c09-716f-92c4-f26a1d3bb55b",
+    "data_hora": "09/07/2025 13:17:23",
+    "horario_rodada": "13:17",
+    "vencedor": "player",
+    "valor": 6
+  },
+  {
+    "id": "0197eff9-b662-71df-988e-beab2ca097ef",
+    "data_hora": "09/07/2025 13:16:48",
+    "horario_rodada": "13:16",
+    "vencedor": "banker",
+    "valor": 7
+  },
+  {
+    "id": "0197eff9-3078-714a-a4e8-548bcf2b9fc6",
+    "data_hora": "09/07/2025 13:16:14",
+    "horario_rodada": "13:16",
+    "vencedor": "banker",
+    "valor": 8
+  },
+  {
+    "id": "0197eff8-a7b6-738f-a193-dc94e31d2c8d",
+    "data_hora": "09/07/2025 13:15:39",
+    "horario_rodada": "13:15",
+    "vencedor": "banker",
+    "valor": 6
+  },
+  {
+    "id": "0197eff8-227b-702c-ae95-70861a2867a8",
+    "data_hora": "09/07/2025 13:15:05",
+    "horario_rodada": "13:15",
+    "vencedor": "tie",
+    "valor": 5
+  },
+  {
+    "id": "0197eff7-9d0a-746d-bb27-15530df455ff",
+    "data_hora": "09/07/2025 13:14:31",
+    "horario_rodada": "13:14",
+    "vencedor": "banker",
+    "valor": 8
+  },
+  {
+    "id": "0197eff7-170d-7062-99e3-77f090f041ae",
+    "data_hora": "09/07/2025 13:13:57",
+    "horario_rodada": "13:13",
+    "vencedor": "player",
+    "valor": 9
+  },
+  {
+    "id": "0197eff6-8bfe-734c-8ae1-d9a793be562c",
+    "data_hora": "09/07/2025 13:13:21",
+    "horario_rodada": "13:13",
+    "vencedor": "banker",
+    "valor": 5
+  },
+  {
+    "id": "0197eff6-0580-765e-85e9-e3e69181da66",
+    "data_hora": "09/07/2025 13:12:47",
+    "horario_rodada": "13:12",
+    "vencedor": "player",
+    "valor": 11
+  },
+  {
+    "id": "0197eff5-7623-7138-83f1-7932932cf108",
+    "data_hora": "09/07/2025 13:12:10",
+    "horario_rodada": "13:12",
+    "vencedor": "banker",
+    "valor": 9
+  },
+  {
+    "id": "0197eff4-e8c4-72dd-bd60-b84940598d4c",
+    "data_hora": "09/07/2025 13:11:34",
+    "horario_rodada": "13:11",
+    "vencedor": "banker",
+    "valor": 6
+  },
+  {
+    "id": "0197eff4-5e26-7733-b4d7-872d7073ecd2",
+    "data_hora": "09/07/2025 13:10:58",
+    "horario_rodada": "13:10",
+    "vencedor": "banker",
+    "valor": 9
+  },
+  {
+    "id": "0197eff3-d522-70eb-811c-3394c1e0e083",
+    "data_hora": "09/07/2025 13:10:23",
+    "horario_rodada": "13:10",
+    "vencedor": "banker",
+    "valor": 7
+  },
+  {
+    "id": "0197eff3-50a5-7016-a127-46cf88121bce",
+    "data_hora": "09/07/2025 13:09:49",
+    "horario_rodada": "13:09",
+    "vencedor": "player",
+    "valor": 7
+  },
+  {
+    "id": "0197eff2-cb67-7546-8aa5-32e6f4087967",
+    "data_hora": "09/07/2025 13:09:15",
+    "horario_rodada": "13:09",
+    "vencedor": "banker",
+    "valor": 10
+  },
+  {
+    "id": "0197eff2-4754-77dd-a671-ac15113d71ef",
+    "data_hora": "09/07/2025 13:08:41",
+    "horario_rodada": "13:08",
+    "vencedor": "player",
+    "valor": 8
+  },
+  {
+    "id": "0197eff1-baa4-7228-a74f-887bfba505cb",
+    "data_hora": "09/07/2025 13:08:05",
+    "horario_rodada": "13:08",
+    "vencedor": "player",
+    "valor": 7
+  },
+  {
+    "id": "0197eff1-2ee0-70fe-a225-1f609af07d98",
+    "data_hora": "09/07/2025 13:07:29",
+    "horario_rodada": "13:07",
+    "vencedor": "player",
+    "valor": 9
+  },
+  {
+    "id": "0197eff0-a3c7-74a6-8351-6b88167c2db0",
+    "data_hora": "09/07/2025 13:06:54",
+    "horario_rodada": "13:06",
+    "vencedor": "player",
+    "valor": 11
+  },
+  {
+    "id": "0197eff0-1461-7483-ad40-fca8420c5b55",
+    "data_hora": "09/07/2025 13:06:17",
+    "horario_rodada": "13:06",
+    "vencedor": "tie",
+    "valor": 7
+  },
+  {
+    "id": "0197efef-8a31-7338-aeb8-e2b3bfdbb1ff",
+    "data_hora": "09/07/2025 13:05:42",
+    "horario_rodada": "13:05",
+    "vencedor": "banker",
+    "valor": 11
+  },
+  {
+    "id": "0197efef-0047-76ff-9a43-4ae261f4c34c",
+    "data_hora": "09/07/2025 13:05:07",
+    "horario_rodada": "13:05",
+    "vencedor": "tie",
+    "valor": 9
+  },
+  {
+    "id": "0197efee-7ab9-76ac-965d-654d24c29efb",
+    "data_hora": "09/07/2025 13:04:32",
+    "horario_rodada": "13:04",
+    "vencedor": "banker",
+    "valor": 8
+  },
+  {
+    "id": "0197efed-f0c2-70a6-9f80-8e15cde2ba8f",
+    "data_hora": "09/07/2025 13:03:57",
+    "horario_rodada": "13:03",
+    "vencedor": "banker",
+    "valor": 9
+  },
+  {
+    "id": "0197efed-6a25-72b4-8541-342d4ac73359",
+    "data_hora": "09/07/2025 13:03:22",
+    "horario_rodada": "13:03",
+    "vencedor": "player",
+    "valor": 4
+  },
+  {
+    "id": "0197efec-e3b0-76d0-ab61-112be8118e64",
+    "data_hora": "09/07/2025 13:02:48",
+    "horario_rodada": "13:02",
+    "vencedor": "player",
+    "valor": 7
+  },
+  {
+    "id": "0197efec-5a8e-7310-a5cd-0e8582141f68",
+    "data_hora": "09/07/2025 13:02:13",
+    "horario_rodada": "13:02",
+    "vencedor": "player",
+    "valor": 12
+  },
+  {
+    "id": "0197efeb-cb87-740e-a2b0-9d2126d8c1f2",
+    "data_hora": "09/07/2025 13:01:36",
+    "horario_rodada": "13:01",
+    "vencedor": "banker",
+    "valor": 11
+  },
+  {
+    "id": "0197efeb-4281-74ca-99f9-cfacd66f2c7d",
+    "data_hora": "09/07/2025 13:01:01",
+    "horario_rodada": "13:01",
+    "vencedor": "player",
+    "valor": 7
+  },
+  {
+    "id": "0197efea-b750-71e7-bf56-11f45e8588fd",
+    "data_hora": "09/07/2025 13:00:26",
+    "horario_rodada": "13:00",
+    "vencedor": "banker",
+    "valor": 9
+  },
+  {
+    "id": "0197efea-2f2c-738c-93d3-7414cd26f112",
+    "data_hora": "09/07/2025 12:59:51",
+    "horario_rodada": "12:59",
+    "vencedor": "banker",
+    "valor": 10
+  },
+  {
+    "id": "0197efe9-ab0a-751f-9304-5c18a9bafca5",
+    "data_hora": "09/07/2025 12:59:17",
+    "horario_rodada": "12:59",
+    "vencedor": "player",
+    "valor": 11
+  },
+  {
+    "id": "0197efe9-22ba-7729-90e1-77fa4f545353",
+    "data_hora": "09/07/2025 12:58:42",
+    "horario_rodada": "12:58",
+    "vencedor": "player",
+    "valor": 6
+  },
+  {
+    "id": "0197efe8-9cae-7322-aa84-1b3e9caab493",
+    "data_hora": "09/07/2025 12:58:08",
+    "horario_rodada": "12:58",
+    "vencedor": "banker",
+    "valor": 10
+  },
+  {
+    "id": "0197efe8-1481-740d-8a28-348c54ca5536",
+    "data_hora": "09/07/2025 12:57:33",
+    "horario_rodada": "12:57",
+    "vencedor": "player",
+    "valor": 9
+  },
+  {
+    "id": "0197efe7-8eb9-71be-8ac1-41dda3160f6a",
+    "data_hora": "09/07/2025 12:56:59",
+    "horario_rodada": "12:56",
+    "vencedor": "banker",
+    "valor": 8
+  },
+  {
+    "id": "0197efe7-07af-74ed-bf9b-d4c20018494d",
+    "data_hora": "09/07/2025 12:56:24",
+    "horario_rodada": "12:56",
+    "vencedor": "banker",
+    "valor": 9
+  },
+  {
+    "id": "0197efe6-7ef0-741f-bcd4-cbf7fcd8c226",
+    "data_hora": "09/07/2025 12:55:49",
+    "horario_rodada": "12:55",
+    "vencedor": "player",
+    "valor": 9
+  },
+  {
+    "id": "0197efe5-f95d-72db-bd83-0ef62ea15053",
+    "data_hora": "09/07/2025 12:55:15",
+    "horario_rodada": "12:55",
+    "vencedor": "banker",
+    "valor": 11
+  },
+  {
+    "id": "0197efe5-7043-719e-b1b2-7f90e9779ad5",
+    "data_hora": "09/07/2025 12:54:40",
+    "horario_rodada": "12:54",
+    "vencedor": "player",
+    "valor": 11
+  },
+  {
+    "id": "0197efe4-e838-72ed-8a67-4c4d8b75f9ca",
+    "data_hora": "09/07/2025 12:54:05",
+    "horario_rodada": "12:54",
+    "vencedor": "tie",
+    "valor": 7
+  },
+  {
+    "id": "0197efe4-62d0-750b-b4e1-f7430f1b0fca",
+    "data_hora": "09/07/2025 12:53:31",
+    "horario_rodada": "12:53",
+    "vencedor": "banker",
+    "valor": 9
+  },
+  {
+    "id": "0197efe3-d5a1-76a4-b449-8367aab0adbc",
+    "data_hora": "09/07/2025 12:52:55",
+    "horario_rodada": "12:52",
+    "vencedor": "player",
+    "valor": 8
+  },
+  {
+    "id": "0197efe3-4fb2-751d-87f7-5a87852a3aae",
+    "data_hora": "09/07/2025 12:52:20",
+    "horario_rodada": "12:52",
+    "vencedor": "banker",
+    "valor": 9
+  },
+  {
+    "id": "0197efe2-c4a2-770d-979f-d440f85f11f2",
+    "data_hora": "09/07/2025 12:51:45",
+    "horario_rodada": "12:51",
+    "vencedor": "player",
+    "valor": 10
+  },
+  {
+    "id": "0197efe2-39de-76bb-b5fc-ed1e1c58ce39",
+    "data_hora": "09/07/2025 12:51:09",
+    "horario_rodada": "12:51",
+    "vencedor": "player",
+    "valor": 9
+  },
+  {
+    "id": "0197efe1-b34e-717e-9348-c94a01d84aef",
+    "data_hora": "09/07/2025 12:50:35",
+    "horario_rodada": "12:50",
+    "vencedor": "player",
+    "valor": 9
+  },
+  {
+    "id": "0197efe1-2a64-75bb-acfa-d3d1b0a83f23",
+    "data_hora": "09/07/2025 12:50:00",
+    "horario_rodada": "12:50",
+    "vencedor": "banker",
+    "valor": 8
+  },
+  {
+    "id": "0197efe0-a0a7-7563-854e-4f1a5c7c0b95",
+    "data_hora": "09/07/2025 12:49:25",
+    "horario_rodada": "12:49",
+    "vencedor": "player",
+    "valor": 7
+  },
+  {
+    "id": "0197efe0-16a9-762a-b6da-661c5b5a4684",
+    "data_hora": "09/07/2025 12:48:49",
+    "horario_rodada": "12:48",
+    "vencedor": "banker",
+    "valor": 9
+  },
+  {
+    "id": "0197efdf-8c0e-76d6-994a-bca5a8aaeb5d",
+    "data_hora": "09/07/2025 12:48:14",
+    "horario_rodada": "12:48",
+    "vencedor": "player",
+    "valor": 11
+  },
+  {
+    "id": "0197efdf-002a-76a1-ac19-d5a333ff03ee",
+    "data_hora": "09/07/2025 12:47:38",
+    "horario_rodada": "12:47",
+    "vencedor": "banker",
+    "valor": 10
+  },
+  {
+    "id": "0197efde-7592-71d6-817e-3edb04fb102e",
+    "data_hora": "09/07/2025 12:47:02",
+    "horario_rodada": "12:47",
+    "vencedor": "player",
+    "valor": 4
+  },
+  {
+    "id": "0197efdd-ed90-748e-bacd-b6e5b022ec77",
+    "data_hora": "09/07/2025 12:46:28",
+    "horario_rodada": "12:46",
+    "vencedor": "banker",
+    "valor": 9
+  },
+  {
+    "id": "0197efdd-6361-7549-8ce4-3195ef21d627",
+    "data_hora": "09/07/2025 12:45:52",
+    "horario_rodada": "12:45",
+    "vencedor": "banker",
+    "valor": 12
+  },
+  {
+    "id": "0197efdc-d9b0-769a-8aa1-5dd8310e8c46",
+    "data_hora": "09/07/2025 12:45:17",
+    "horario_rodada": "12:45",
+    "vencedor": "banker",
+    "valor": 10
+  },
+  {
+    "id": "0197efdc-517c-7153-8d71-9d9c5c5281e6",
+    "data_hora": "09/07/2025 12:44:42",
+    "horario_rodada": "12:44",
+    "vencedor": "banker",
+    "valor": 9
+  },
+  {
+    "id": "0197efdb-c7a4-724f-b888-268c9df2acaa",
+    "data_hora": "09/07/2025 12:44:07",
+    "horario_rodada": "12:44",
+    "vencedor": "player",
+    "valor": 10
+  },
+  {
+    "id": "0197efdb-3c10-72ea-b8f0-2fbe4df50b79",
+    "data_hora": "09/07/2025 12:43:31",
+    "horario_rodada": "12:43",
+    "vencedor": "tie",
+    "valor": 7
+  },
+  {
+    "id": "0197efda-b4ec-7460-b51b-1bcb182b19af",
+    "data_hora": "09/07/2025 12:42:56",
+    "horario_rodada": "12:42",
+    "vencedor": "banker",
+    "valor": 10
+  },
+  {
+    "id": "0197efda-2ac4-75a3-a639-80a71dee1bba",
+    "data_hora": "09/07/2025 12:42:21",
+    "horario_rodada": "12:42",
+    "vencedor": "banker",
+    "valor": 9
+  },
+  {
+    "id": "0197efd9-9ce2-72fb-8d61-78c2ef262e91",
+    "data_hora": "09/07/2025 12:41:45",
+    "horario_rodada": "12:41",
+    "vencedor": "player",
+    "valor": 9
+  },
+  {
+    "id": "0197efd9-11d8-752d-941f-8060537b6124",
+    "data_hora": "09/07/2025 12:41:09",
+    "horario_rodada": "12:41",
+    "vencedor": "player",
+    "valor": 6
+  },
+  {
+    "id": "0197efd8-878f-741d-a5d9-6923bfdefbb0",
+    "data_hora": "09/07/2025 12:40:34",
+    "horario_rodada": "12:40",
+    "vencedor": "banker",
+    "valor": 11
+  },
+  {
+    "id": "0197efd7-fd46-728a-9939-025ef2f7356d",
+    "data_hora": "09/07/2025 12:39:58",
+    "horario_rodada": "12:39",
+    "vencedor": "player",
+    "valor": 10
+  },
+  {
+    "id": "0197efd7-6e5c-7086-b24d-625e74e54a65",
+    "data_hora": "09/07/2025 12:39:22",
+    "horario_rodada": "12:39",
+    "vencedor": "player",
+    "valor": 10
+  },
+  {
+    "id": "0197efd6-e2e2-731f-8271-9968cc39bb61",
+    "data_hora": "09/07/2025 12:38:46",
+    "horario_rodada": "12:38",
+    "vencedor": "player",
+    "valor": 8
+  },
+  {
+    "id": "0197efd6-5442-7096-9a05-109edba0ab0b",
+    "data_hora": "09/07/2025 12:38:10",
+    "horario_rodada": "12:38",
+    "vencedor": "banker",
+    "valor": 6
+  },
+  {
+    "id": "0197efd5-c9ab-7467-802c-7bef4845bb52",
+    "data_hora": "09/07/2025 12:37:34",
+    "horario_rodada": "12:37",
+    "vencedor": "player",
+    "valor": 8
+  },
+  {
+    "id": "0197efd5-3e1a-72d1-996e-6cabc2b960b6",
+    "data_hora": "09/07/2025 12:36:58",
+    "horario_rodada": "12:36",
+    "vencedor": "player",
+    "valor": 9
+  },
+  {
+    "id": "0197efd4-b344-7300-93c8-3ac6f259cd33",
+    "data_hora": "09/07/2025 12:36:23",
+    "horario_rodada": "12:36",
+    "vencedor": "player",
+    "valor": 7
+  },
+  {
+    "id": "0197efd4-2d0c-770c-9824-db9e0f7eb562",
+    "data_hora": "09/07/2025 12:35:48",
+    "horario_rodada": "12:35",
+    "vencedor": "banker",
+    "valor": 11
+  },
+  {
+    "id": "0197efd3-a71b-74dc-8096-987a788dd543",
+    "data_hora": "09/07/2025 12:35:14",
+    "horario_rodada": "12:35",
+    "vencedor": "player",
+    "valor": 8
+  },
+  {
+    "id": "0197efd3-1f74-735b-afeb-c625a050040a",
+    "data_hora": "09/07/2025 12:34:39",
+    "horario_rodada": "12:34",
+    "vencedor": "banker",
+    "valor": 10
+  },
+  {
+    "id": "0197efd2-9313-7519-a6c6-e2f2e5a4e40a",
+    "data_hora": "09/07/2025 12:34:04",
+    "horario_rodada": "12:34",
+    "vencedor": "banker",
+    "valor": 11
+  },
+  {
+    "id": "0197efd2-09da-7159-b80f-5ab98b28c89d",
+    "data_hora": "09/07/2025 12:33:28",
+    "horario_rodada": "12:33",
+    "vencedor": "banker",
+    "valor": 5
+  },
+  {
+    "id": "0197efd1-7d24-702e-a7e7-ff7a7719a273",
+    "data_hora": "09/07/2025 12:32:52",
+    "horario_rodada": "12:32",
+    "vencedor": "banker",
+    "valor": 8
+  },
+  {
+    "id": "0197efd0-f0fe-77b1-9e8b-86f84c9c0122",
+    "data_hora": "09/07/2025 12:32:16",
+    "horario_rodada": "12:32",
+    "vencedor": "banker",
+    "valor": 10
+  },
+  {
+    "id": "0197efd0-66cd-7385-9709-288d1efff80b",
+    "data_hora": "09/07/2025 12:31:41",
+    "horario_rodada": "12:31",
+    "vencedor": "player",
+    "valor": 9
+  },
+  {
+    "id": "0197efcf-da08-701f-8d24-85bf70289a15",
+    "data_hora": "09/07/2025 12:31:05",
+    "horario_rodada": "12:31",
+    "vencedor": "tie",
+    "valor": 9
+  },
+  {
+    "id": "0197efcf-50de-7492-af70-aafb394b3fe7",
+    "data_hora": "09/07/2025 12:30:30",
+    "horario_rodada": "12:30",
+    "vencedor": "banker",
+    "valor": 9
+  },
+  {
+    "id": "0197efce-c916-7028-998e-ec3b9b76814a",
+    "data_hora": "09/07/2025 12:29:55",
+    "horario_rodada": "12:29",
+    "vencedor": "player",
+    "valor": 6
+  },
+  {
+    "id": "0197efce-3d81-70d2-a552-0f537575a8e6",
+    "data_hora": "09/07/2025 12:29:19",
+    "horario_rodada": "12:29",
+    "vencedor": "banker",
+    "valor": 9
+  },
+  {
+    "id": "0197efcd-b739-775d-849a-737b33038b04",
+    "data_hora": "09/07/2025 12:28:45",
+    "horario_rodada": "12:28",
+    "vencedor": "banker",
+    "valor": 7
+  },
+  {
+    "id": "0197efcd-2a16-7066-b235-a9cccfdabb9e",
+    "data_hora": "09/07/2025 12:28:09",
+    "horario_rodada": "12:28",
+    "vencedor": "banker",
+    "valor": 10
+  },
+  {
+    "id": "0197efcc-a02e-768b-be61-9e76f102447e",
+    "data_hora": "09/07/2025 12:27:34",
+    "horario_rodada": "12:27",
+    "vencedor": "banker",
+    "valor": 6
+  },
+  {
+    "id": "0197efcc-1524-732f-a2e1-dc9ec178403c",
+    "data_hora": "09/07/2025 12:26:58",
+    "horario_rodada": "12:26",
+    "vencedor": "player",
+    "valor": 6
+  },
+  {
+    "id": "0197efcb-8c18-750c-bfe3-96e16a6b2318",
+    "data_hora": "09/07/2025 12:26:23",
+    "horario_rodada": "12:26",
+    "vencedor": "player",
+    "valor": 7
+  },
+  {
+    "id": "0197efcb-02a6-7093-bc9a-ea4c2b9cd556",
+    "data_hora": "09/07/2025 12:25:48",
+    "horario_rodada": "12:25",
+    "vencedor": "player",
+    "valor": 7
+  },
+  {
+    "id": "0197efca-77dd-74e1-80ca-8f10a8052e15",
+    "data_hora": "09/07/2025 12:25:12",
+    "horario_rodada": "12:25",
+    "vencedor": "player",
+    "valor": 4
+  },
+  {
+    "id": "0197efc9-ee6f-73f5-a845-3ce084f10489",
+    "data_hora": "09/07/2025 12:24:37",
+    "horario_rodada": "12:24",
+    "vencedor": "tie",
+    "valor": 9
+  },
+  {
+    "id": "0197efc9-66ec-739d-bcac-fd04be0fd879",
+    "data_hora": "09/07/2025 12:24:02",
+    "horario_rodada": "12:24",
+    "vencedor": "banker",
+    "valor": 8
+  },
+  {
+    "id": "0197efc8-ddba-71cf-875e-3f5feed004e7",
+    "data_hora": "09/07/2025 12:23:27",
+    "horario_rodada": "12:23",
+    "vencedor": "banker",
+    "valor": 8
+  },
+  {
+    "id": "0197efc8-582d-763e-8dcf-eab92545b368",
+    "data_hora": "09/07/2025 12:22:53",
+    "horario_rodada": "12:22",
+    "vencedor": "banker",
+    "valor": 10
+  },
+  {
+    "id": "0197efc7-cd0d-77f0-950d-95b476cb0c62",
+    "data_hora": "09/07/2025 12:22:17",
+    "horario_rodada": "12:22",
+    "vencedor": "player",
+    "valor": 10
+  },
+  {
+    "id": "0197efc7-4074-71dc-bf38-e2f8c204d92d",
+    "data_hora": "09/07/2025 12:21:41",
+    "horario_rodada": "12:21",
+    "vencedor": "player",
+    "valor": 5
+  },
+  {
+    "id": "0197efc6-b442-76e6-af56-90d9129f1dab",
+    "data_hora": "09/07/2025 12:21:06",
+    "horario_rodada": "12:21",
+    "vencedor": "tie",
+    "valor": 7
+  },
+  {
+    "id": "0197efc6-28d6-740e-b117-0231fe26c438",
+    "data_hora": "09/07/2025 12:20:30",
+    "horario_rodada": "12:20",
+    "vencedor": "banker",
+    "valor": 10
+  },
+  {
+    "id": "0197efc5-9e70-73ed-be16-49c3b1b7af22",
+    "data_hora": "09/07/2025 12:19:55",
+    "horario_rodada": "12:19",
+    "vencedor": "tie",
+    "valor": 6
+  },
+  {
+    "id": "0197efc5-1579-71a9-9e65-4461fefa6afc",
+    "data_hora": "09/07/2025 12:19:19",
+    "horario_rodada": "12:19",
+    "vencedor": "banker",
+    "valor": 9
+  },
+  {
+    "id": "0197efc4-8b24-707b-a8d1-c1e3bb6cdf57",
+    "data_hora": "09/07/2025 12:18:44",
+    "horario_rodada": "12:18",
+    "vencedor": "banker",
+    "valor": 8
+  },
+  {
+    "id": "0197efc3-fc8f-7224-9225-a2e1ca0cd7c1",
+    "data_hora": "09/07/2025 12:18:08",
+    "horario_rodada": "12:18",
+    "vencedor": "player",
+    "valor": 8
+  },
+  {
+    "id": "0197efc3-6e05-74f4-b412-8bb52c636cdb",
+    "data_hora": "09/07/2025 12:17:31",
+    "horario_rodada": "12:17",
+    "vencedor": "player",
+    "valor": 10
+  },
+  {
+    "id": "0197efc2-e22e-715c-be11-81c17b522d53",
+    "data_hora": "09/07/2025 12:16:55",
+    "horario_rodada": "12:16",
+    "vencedor": "player",
+    "valor": 10
+  },
+  {
+    "id": "0197efc2-59d6-75c9-af29-33210794c62d",
+    "data_hora": "09/07/2025 12:16:20",
+    "horario_rodada": "12:16",
+    "vencedor": "player",
+    "valor": 8
+  },
+  {
+    "id": "0197efc1-cb3f-76f9-9c21-81148e23f9a1",
+    "data_hora": "09/07/2025 12:15:44",
+    "horario_rodada": "12:15",
+    "vencedor": "banker",
+    "valor": 10
+  },
+  {
+    "id": "0197efc1-42a8-749a-9a6c-ced77846a95e",
+    "data_hora": "09/07/2025 12:15:09",
+    "horario_rodada": "12:15",
+    "vencedor": "banker",
+    "valor": 6
+  },
+  {
+    "id": "0197efc0-b6aa-72ab-b2fd-eb4150c31f9f",
+    "data_hora": "09/07/2025 12:14:33",
+    "horario_rodada": "12:14",
+    "vencedor": "player",
+    "valor": 12
+  },
+  {
+    "id": "0197efc0-2c62-70de-93a4-8bf0d18fbc37",
+    "data_hora": "09/07/2025 12:13:58",
+    "horario_rodada": "12:13",
+    "vencedor": "banker",
+    "valor": 12
+  },
+  {
+    "id": "0197efbf-a1b8-7254-8fbd-7bfad6484d8e",
+    "data_hora": "09/07/2025 12:13:22",
+    "horario_rodada": "12:13",
+    "vencedor": "banker",
+    "valor": 10
+  },
+  {
+    "id": "0197efbf-1776-730e-a235-db9e889fa7d2",
+    "data_hora": "09/07/2025 12:12:47",
+    "horario_rodada": "12:12",
+    "vencedor": "player",
+    "valor": 5
+  },
+  {
+    "id": "0197efbe-8cab-73ba-802e-3fe980f9273a",
+    "data_hora": "09/07/2025 12:12:11",
+    "horario_rodada": "12:12",
+    "vencedor": "player",
+    "valor": 12
+  },
+  {
+    "id": "0197efbe-02f2-714d-8072-7319f475acf9",
+    "data_hora": "09/07/2025 12:11:36",
+    "horario_rodada": "12:11",
+    "vencedor": "banker",
+    "valor": 10
+  },
+  {
+    "id": "0197efbd-73e9-773b-bf80-f94d1153e670",
+    "data_hora": "09/07/2025 12:10:59",
+    "horario_rodada": "12:10",
+    "vencedor": "player",
+    "valor": 8
+  },
+  {
+    "id": "0197efbc-e8dc-7368-aa86-f497b32f9dd1",
+    "data_hora": "09/07/2025 12:10:24",
+    "horario_rodada": "12:10",
+    "vencedor": "tie",
+    "valor": 8
+  },
+  {
+    "id": "0197efbc-5ee7-7711-bdd6-6d98b1c679fa",
+    "data_hora": "09/07/2025 12:09:48",
+    "horario_rodada": "12:09",
+    "vencedor": "player",
+    "valor": 12
+  },
+  {
+    "id": "0197efbb-d566-7128-a983-fd9f86fcebd4",
+    "data_hora": "09/07/2025 12:09:13",
+    "horario_rodada": "12:09",
+    "vencedor": "banker",
+    "valor": 8
+  },
+  {
+    "id": "0197efbb-4aaf-76b8-b840-e20f36a65ae2",
+    "data_hora": "09/07/2025 12:08:38",
+    "horario_rodada": "12:08",
+    "vencedor": "banker",
+    "valor": 7
+  },
+  {
+    "id": "0197efba-bede-77be-9783-8fb5cc7c3a4c",
+    "data_hora": "09/07/2025 12:08:02",
+    "horario_rodada": "12:08",
+    "vencedor": "banker",
+    "valor": 7
+  },
+  {
+    "id": "0197efba-31f9-75a3-8ed1-0a220aaa105a",
+    "data_hora": "09/07/2025 12:07:26",
+    "horario_rodada": "12:07",
+    "vencedor": "banker",
+    "valor": 10
+  },
+  {
+    "id": "0197efb9-a92c-778d-8e5a-afe5399a6544",
+    "data_hora": "09/07/2025 12:06:51",
+    "horario_rodada": "12:06",
+    "vencedor": "banker",
+    "valor": 6
+  },
+  {
+    "id": "0197efb9-2017-76af-9f1d-3d13299ee048",
+    "data_hora": "09/07/2025 12:06:16",
+    "horario_rodada": "12:06",
+    "vencedor": "banker",
+    "valor": 6
+  },
+  {
+    "id": "0197efb8-95d7-7008-849b-37b95b27cb18",
+    "data_hora": "09/07/2025 12:05:40",
+    "horario_rodada": "12:05",
+    "vencedor": "player",
+    "valor": 10
+  },
+  {
+    "id": "0197efb8-0ac0-701e-b8bb-db5664046b5e",
+    "data_hora": "09/07/2025 12:05:05",
+    "horario_rodada": "12:05",
+    "vencedor": "banker",
+    "valor": 9
+  },
+  {
+    "id": "0197efb7-82e4-7509-becf-4c35925213dd",
+    "data_hora": "09/07/2025 12:04:30",
+    "horario_rodada": "12:04",
+    "vencedor": "player",
+    "valor": 9
+  },
+  {
+    "id": "0197efb6-f76b-75f4-9f0a-db99d3ade183",
+    "data_hora": "09/07/2025 12:03:54",
+    "horario_rodada": "12:03",
+    "vencedor": "player",
+    "valor": 8
+  },
+  {
+    "id": "0197efb6-7029-71e9-8cdc-867e7bf82bcb",
+    "data_hora": "09/07/2025 12:03:20",
+    "horario_rodada": "12:03",
+    "vencedor": "banker",
+    "valor": 10
+  },
+  {
+    "id": "0197efb5-e976-765d-861a-bffbc28af832",
+    "data_hora": "09/07/2025 12:02:45",
+    "horario_rodada": "12:02",
+    "vencedor": "player",
+    "valor": 8
+  },
+  {
+    "id": "0197efb5-5eb9-766b-a34e-21a64934f728",
+    "data_hora": "09/07/2025 12:02:10",
+    "horario_rodada": "12:02",
+    "vencedor": "tie",
+    "valor": 7
+  },
+  {
+    "id": "0197efb4-d9dc-76f6-9b81-28c1f7a6e1eb",
+    "data_hora": "09/07/2025 12:01:36",
+    "horario_rodada": "12:01",
+    "vencedor": "banker",
+    "valor": 7
+  },
+  {
+    "id": "0197efb4-5268-726a-8832-814036d1a9c0",
+    "data_hora": "09/07/2025 12:01:01",
+    "horario_rodada": "12:01",
+    "vencedor": "player",
+    "valor": 10
+  }
+]
